@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to React</h1>
         </header>
         <p className="App-intro">
-            叔叔若是有心，喝了奴家这半盏残酒
+            叔叔若是有心，喝了奴家这半盏残酒。 --尼古拉斯~克标
         </p>
       </div>
     );
