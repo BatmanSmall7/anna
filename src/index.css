@@ -8,24 +8,5 @@ body {
   background-size:100% 99.9%;
   font-family: sans-serif;
 }
-#wish{
-  font: 42px solid ;
-  margin: 0px auto;
-  color: darkorange;
-}
-#pic{
-  font: 20px solid;
-  margin: 0px auto;
-  color: gold;
-}
-#clock{
-  font: 30px solid;
-  margin: 10px auto;
-  color: blanchedalmond;
-}
-.age{
-  font: 10px solid;
-  margin: 0px auto;
-  color: gold;
-}
+
 
