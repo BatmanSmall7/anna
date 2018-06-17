@@ -24,6 +24,7 @@ class Clock extends Component{
         })
     }
 
+
     calcu(){
         var s1 = '2013-06-07';
         s1 = new Date(s1.replace(/-/g, "/"));
